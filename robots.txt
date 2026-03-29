@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tsodenhist.github.io/al-folio/sitemap.xml
+Sitemap: https://tsodenhist.github.io/sitemap.xml
